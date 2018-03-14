@@ -2,9 +2,9 @@
 >Follow these rich resources about Programming.
 <br>
 
-- [Worldwide](#Worldwide)
+- [Worldwide](#worldwide)
 
-- [Native](#Native)
+- [Native](#native)
 
 ## Worldwide
 
