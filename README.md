@@ -6,7 +6,7 @@
 
 - [Native](#Native)
 
-##Worldwide
+## Worldwide
 
 - [CS50](https://www.youtube.com/user/cs50tv) - Computer classes from Havard University  
 
@@ -42,13 +42,13 @@
 
 - [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87) - 
 
-##Native
+## Native
 
-###Nepali
+### Nepali
 
 - [Enquire Leapfrogacademy](https://www.youtube.com/channel/UCjwB2RXB5Z4Uvyg-wZRM7pQ) - Tutorial from Institue
 
-###Hindi
+### Hindi
 
 - [CS Geeks](https://www.youtube.com/channel/UCFpCo01pOGe4tEbOTnn4_UQ) - 
 
