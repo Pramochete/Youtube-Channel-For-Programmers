@@ -2,6 +2,12 @@
 >Follow these rich resources about Programming.
 <br>
 
+- [Worldwide](#Worldwide)
+
+- [Native](#Native)
+
+##Worldwide
+
 - [CS50](https://www.youtube.com/user/cs50tv) - Computer classes from Havard University  
 
 - [Derek Banas](https://www.youtube.com/user/derekbanas) - Any programming languagaes  
@@ -36,4 +42,14 @@
 
 - [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87) - 
 
+##Native
 
+###Nepali
+
+- [Enquire Leapfrogacademy](https://www.youtube.com/channel/UCjwB2RXB5Z4Uvyg-wZRM7pQ) - Tutorial from Institue
+
+###Hindi
+
+- [CS Geeks](https://www.youtube.com/channel/UCFpCo01pOGe4tEbOTnn4_UQ) - 
+
+###
